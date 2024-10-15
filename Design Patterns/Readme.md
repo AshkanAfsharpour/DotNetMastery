@@ -146,12 +146,3 @@
 
 - [ ] **Object Mother**
   - [ ] Create sample objects for tests.
-
----
-
-### Additional Tasks
-- [ ] Write **unit tests** for each design pattern.
-- [ ] Create **README** files explaining each pattern with examples.
-- [ ] Document **real-world use cases** of each pattern.
-- [ ] Provide comparisons between similar design patterns (e.g., Factory vs Abstract Factory).
-- [ ] Include UML diagrams for each pattern where applicable.
