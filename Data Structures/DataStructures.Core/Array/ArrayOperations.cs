@@ -9,6 +9,8 @@
         _count = 0;
     }
 
+    public int Count => _count;
+
     public void Add(T value)
     {
         if (_count == _array.Length)
