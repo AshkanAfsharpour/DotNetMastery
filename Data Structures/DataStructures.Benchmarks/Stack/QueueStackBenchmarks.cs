@@ -51,3 +51,4 @@ public class QueueStackBenchmark
             _stack.IsEmpty();
         }
     }
+}
